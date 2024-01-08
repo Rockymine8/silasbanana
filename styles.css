@@ -1,0 +1,23 @@
+/* styles.css */
+/* styles.css */
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #e6f7ff; /* Light blue background for the entire page */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #336699; /* Dark blue text color for h1 */
+    /* background-color: #ffcc00; /* Yellow background color for h1 */
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #4e4e4e;
+    margin-top: 20px;
+    background-color: #fff; /* White background for the image container */
+}
